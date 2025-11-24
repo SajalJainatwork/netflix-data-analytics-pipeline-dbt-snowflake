@@ -1,3 +1,6 @@
+<img width="1400" height="700" alt="best-movies-on-netflix" src="https://github.com/user-attachments/assets/b844db7e-5ebb-4bd8-9f49-c1d874e664e1" />
+
+
 # Netflix-Data-Analytics-Pipeline-DBT-Snowflake
 Designed an end-to-end ELT pipeline by extracting Netflix data from AWS S3 into Snowflake and applying modular transformations using DBT (raw, staging, and production layers). Further enhancement can be done using Airflow for automating the entire pipeline and visualising insights can be done using Looker Studio/Power BI.
 
